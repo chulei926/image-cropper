@@ -102,9 +102,3 @@
 
 Demo地址：https://github.com/wx-plugin/image-cropper-demo
 
-如果有什么好的建议欢迎提issues或者提pr
-
-QQ1977474741
-
-## 鼓励作者
-<div align=center ><img width="330" height="330" src="https://raw.githubusercontent.com/wx-plugin/image-cropper/master/.github/ISSUE_TEMPLATE/encourage.jpg"/></div>
